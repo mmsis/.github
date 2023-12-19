@@ -1,4 +1,4 @@
-<a href="https://mmsis.com"><img src="https://media.licdn.com/dms/image/C511BAQEDLkoE3FQezQ/company-background_10000/0/1584233579751/micro_modular_system_mms_cover?e=1702879200&v=beta&t=y-WGIZty22p2aBTVzN1qVoF5lAVjfHbPRonrOINCiLU"/></a>
+<a href="https://mmsis.com"><img src="https://github.com/mmsis/.github/assets/5046671/4ad067d5-dcaf-46d5-94e0-c010b3fbb9af"/></a>
 
 # <a href="https://mmsis.com"><img src="https://mmsis.com/wp-content/uploads/2022/04/site-logo.png" height="35"/></a> Micro Modular System (MMS) 
 
